@@ -314,12 +314,12 @@
 		</Product>
 	</Manufacturer>
 	<Manufacturer>
-		<Id>0060</Id>
+		<Id>0278</Id>
 		<Name>Everspring</Name>
 		<Product>
 			<Reference>
 				<Type>0001</Type>
-				<Id>0003</Id>
+				<Id>0001</Id>
 			</Reference>
 			<Model>HSP02</Model>
 			<Label lang="en">Motion Detector</Label>
